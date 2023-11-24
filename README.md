@@ -13,12 +13,12 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 1. Clone o repositório para a sua máquina:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/gabbarco/DesafioBackendEscribo
     ```
-2. Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto (se necessário):
 
     ```bash
-   cd seu-projeto
+   cd DesafioBackendEscribo
     ```
 
 3. Instale as dependencias
@@ -89,3 +89,5 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
     ```
 
     Além disso adicione os testes necessários no arquivo authController.test.js
+
+©️ Gabriel Barco Borges
