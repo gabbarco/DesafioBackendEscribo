@@ -7,6 +7,9 @@ const PORT = process.env.PORT || 3000;
 
 app.use(bodyParser.json());
 
+app.get('/', (req, res) => {
+    res.send('Bem-vindo à sua API Restful Escribo!<br>Rotas Existentes:<br>/signin<br>/signup<br>/user');
+});
 // Rotas
 app.use(authRoutes);
 
